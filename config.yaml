@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    user1:
+      email: "user1@example.com"
+      name: "User One"
+      password: "hashed_password1"  # Replace this with the actual hashed password
+    user2:
+      email: "user2@example.com"
+      name: "User Two"
+      password: "hashed_password2"  # Replace this with the actual hashed password
+
+cookie:
+  key: "your_cookie_key"
+  name: "your_cookie_name"
+  expiry_days: 30
